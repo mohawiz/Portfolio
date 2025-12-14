@@ -89,7 +89,7 @@ export const siteConfig = {
       achievements: [
         "Successfully completed two advanced bootcamps in Generative AI and Data Analytics from AtomCamp.",
         "Proficient in a diverse stack of analytical and AI tools, including SQL, Python, and advanced NLP Models.",
-        "Applied expertise in **Exploratory Data Analysis (EDA), model fine-tuning, and specialized geospatial analysis tools like QGIS and Pysloth.",
+        "Applied expertise in Exploratory Data Analysis (EDA), model fine-tuning, and specialized geospatial analysis tools like QGIS and Pysloth.",
       ],
     },
   ],
