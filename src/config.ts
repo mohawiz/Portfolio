@@ -16,23 +16,37 @@ export const siteConfig = {
     {
       name: "Seamless Automation of Data Analysis via LLMs",
       description:
-        "Engineered a system using LLMs to automate the end-to-end data analysis pipeline. It interprets complex datasets and delivers precise analytical reports, eliminating manual analysis steps.",
-      link: "https://github.com/mohawiz/FYP2252",
-      skills: ["Python", "Streamlit", "LLama","Cohere","Matplotlib","Seaborn"],
+        "Engineered a web-based data analysis assistant using Streamlit, LangChain, and LLMs (Cohere, LLaMA) that allows users to perform complete exploratory data analysis through natural language prompts. The system automates data summarization, visualization generation, and profiling, enabling non-technical users to gain insights from datasets like Titanic without writing code.",
+      link: "https://github.com/mohawiz/Seamless-Automation-of-Data-Analysis-via-LLMS",
+      skills: ["Python", "Streamlit", "LLama","Cohere","Matplotlib","Seaborn", 'Large Language Models (LLM)', 'Natural Language Processing (NLP)', 'Automated Data Analysis', 'Streamlit', 'LangChain', 'Data Visualization'],
     },
     {
       name: "Linear Regression on Advertising Budget and Sales Data",
       description:
-        "Implemented a linear regression analysis to predict sales outcomes based on multi-channel advertising data. The project involved comprehensive EDA, data standardization with StandardScaler, and model validation, identifying TV ad spend as the most significant predictor.",
+        "Built a predictive analytics model to forecast sales based on advertising budget allocation across TV, Radio, and Newspaper channels. Performed comprehensive data analysis including correlation heatmaps and feature standardization, achieving a model with RMSE of 1.56, identifying TV advertising as the strongest predictor (correlation: 0.78). The project demonstrates end-to-end machine learning workflow from EDA to model evaluation.",
       link: "https://github.com/mohawiz/Linear_Regression",
-      skills: ["Python", "Numpy","Scikitlearn","Lenear Regression","Data-Wrangling"],
+      skills: ["Python", "Numpy","Scikitlearn","Lenear Regression","Data-Wrangling", 'Linear Regression', 'Predictive Analytics', 'Feature Correlation', 'Advertising Analytics', 'Scikit-learn'],
     },
     {
       name: "Sentiment Analysis using LSTM (IMDb Dataset)",
       description:
-        "Built and benchmarked multiple ML models—Linear Regression, Support Vector Machine, and Naive Bayes—for sentiment analysis on a large-scale IMDB dataset. The project highlights how different algorithmic approaches tackle the same text classification problem with varied results.",
+        "This project involved building and comparing three different machine learning models (Linear Regression, Support Vector Machine, and Naïve Bayes) to classify the sentiment of 50,000 movie reviews as positive or negative. It included a complete NLP pipeline from text preprocessing and feature extraction (like TF-IDF) to model training and evaluation. The comparative analysis of the models highlights their distinct strengths and weaknesses in handling textual data for sentiment classification.",
       link: "https://github.com/mohawiz/Sentiment-Analysis-IMDB",
-      skills: ["Python", "LLama", "ML-Models"],
+      skills: ["Python", "LLama", "ML-Models", 'Sentiment Analysis', 'NLP', 'Text Classification', 'Model Comparison', 'Scikit-learn', 'IMDB Reviews'],
+    },
+    {
+      name: "RAG-Powered Healthcare Chatbot",
+      description:
+        "Developed a specialized medical chatbot that processes medical literature (PDFs) using Retrieval-Augmented Generation (RAG). The system extracts and chunks text from PDFs, creates vector embeddings via a Sentence Transformer, and stores them in a Pinecone vector database for efficient semantic search. User queries retrieve relevant medical context, which is then synthesized into accurate, source-grounded responses using the LLaMA 3 70B model via the Groq API.",
+      link: "https://github.com/mohawiz/Sentiment-Analysis-IMDB",
+      skills: ['Retrieval-Augmented Generation (RAG)', 'Healthcare AI', 'Vector Database', 'LangChain', 'Pinecone', 'LLaMA 3', 'Medical NLP', 'PDF Processing'],
+    },
+    {
+      name: "AI Voice Assistant with Groq & LLaMA",
+      description:
+        "Developed an interactive AI voice assistant that integrates speech-to-text, the Groq LLaMA 3.1 70B language model, and text-to-speech into a seamless, real-time conversation loop. The application enables natural spoken interactions by capturing audio via microphone, transcribing and processing queries with a state-of-the-art LLM, and delivering responses with synthesized speech, complete with maintained conversation context.",
+      link: "https://github.com/mohawiz/AI-Speech-to-Speech-Model-with-Image-Based-Communication",
+      skills: ["Conversational AI", "Voice Assistant", "Groq API", "LLaMA 3.1", "Speech-to-Text", "Text-to-Speech", "Real-time Processing"],
     },
   ],
   experience: [
