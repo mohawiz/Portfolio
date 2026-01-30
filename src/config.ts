@@ -53,7 +53,13 @@ export const siteConfig = {
       description:
         "Python-based computer vision application that performs live detection of Personal Protective Equipment (PPE). It uses a state-of-the-art YOLO (You Only Look Once) object detection model to analyze video from a webcam feed in real-time. The script continuously captures frames, processes them through a pre-trained model (best.pt), draws bounding boxes and labels around detected safety gear (e.g., hard hats, vests), and displays the annotated video stream to the user.",
       link: "https://github.com/mohawiz/Personal-Protective-Equipment-PPE-detection-system",
-      skills: ["Conversational AI", "Voice Assistant", "Groq API", "LLaMA 3.1", "Speech-to-Text", "Text-to-Speech", "Real-time Processing"],
+      skills: ["Bounding Box Visualization",
+    "OpenCV (cv2) Library",
+    "Ultralytics YOLO Framework",
+    "Real-time Video Processing",
+    "Computer Vision",
+    "Object Detection",
+    "Python"],
     },
     {
       name: "Enterprise Learning Management System (LMS) for Oil & Gas",
