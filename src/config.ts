@@ -75,10 +75,12 @@ export const siteConfig = {
       title: "Data & AI Engineer",
       dateRange: "July 2025 - Present",
       bullets: [
-        "Developed and customized enterprise-level applications using the Frappe Framework, Vue.js, JavaScript, and Python.",
-        "Built integrated solutions with robust front-end interfaces and back-end systems to meet specific business requirements.",
-        "Enhanced overall system efficiency and user experience (UX) across various application modules.",
-        "Automated key business processes using OCR technology (Tesseract) to digitize and streamline document workflows.",
+        "Develop and customize enterprise-level applications using Python, Frappe Framework, Vue.js, JavaScript, and SQL/MariaDB.",
+        "Design and integrate frontend and backend solutions tailored to business requirements and operational workflows.",
+        "Develop AI-powered automation and data-driven features, including automated employee summaries using Groq LLMs and prompt engineering.",
+        "Automate business processes and document workflows using OCR technology (Tesseract) to extract, process, and digitize information.",
+        "Develop automated email workflows, API integrations, webhooks, and Supabase-based data processes to streamline business operations.",
+        "Utilize Docker and Frappe Bench for application development, testing, deployment, and enterprise LMS management.",
         
       ],
     },
