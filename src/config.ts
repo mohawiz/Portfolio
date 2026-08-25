@@ -65,7 +65,7 @@ export const siteConfig = {
       name: "Enterprise Learning Management System (LMS) for Oil & Gas",
       description:
         "End-to-End development, customization, and on-premises deployment of a secure, enterprise-grade Learning Management System (LMS). The platform manages mandatory compliance training, technical skill certifications, and safety protocols for a specialized industrial workforce, serving as the central hub for organizational competency and compliance tracking.",
-      link: "https://ace.petconlms.com/lms/courses?",
+      link: "https://ace2.petconlms.com/lms/courses?",
       skills: ['Computer Vision', 'OCR', 'Tesseract', 'Vue', 'Python', 'Frappe Framework', "Full-Stack Development","Linux Deployment", "Enterprise Application","Docker"],
     },
   ],
