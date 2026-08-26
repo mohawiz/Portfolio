@@ -9,8 +9,8 @@ export const siteConfig = {
     github: "https://github.com/mohawiz",
   },
   aboutMe:
-    "Data Science graduate with expertise in Python, machine learning, and cloud-based system development. I build end-to-end, data-driven applications by integrating AI/ML models—including NLP and deep learning—into full-stack solutions using frameworks like FastAPI and Vue.js. My project experience spans healthcare automation, intelligent chatbots, business intelligence dashboards, and OCR-driven workflow systems. I am focused on developing practical, scalable AI tools that enhance decision-making and solve complex real-world problems.",
-  skills: ["Python","Javascript","Vue.js", "React", "Node.js", "C/C++", "Java","SQL","Docker","Linux"],
+    "Data & AI Engineer with experience in Python, software development, AI/ML, automation, and data-driven application development. Skilled in building and integrating backend and frontend solutions using technologies such as Python, FastAPI, Vue.js, JavaScript, SQL, and Docker. Experienced in developing practical applications involving AI, APIs, data processing, and workflow automation, with a focus on writing reliable, scalable, and maintainable solutions. Currently pursuing the Erasmus Mundus Joint Master’s in Artificial Intelligence for Sustainable Societies (EMJM AISS) at Tallinn University.",
+  skills: ["Python","Javascript","Vue.js", "React", "Node.js", "C/C++", "Java","SQL","Docker","Linux","n8n","Make"],
   
   projects: [
     {
